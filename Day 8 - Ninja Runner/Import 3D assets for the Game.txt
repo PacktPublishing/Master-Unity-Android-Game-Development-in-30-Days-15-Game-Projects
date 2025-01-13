@@ -1,0 +1,13 @@
+Import 3D assets for the Game:
+
+Bridge:
+https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-cartoon-mini-pack-free-227405
+
+Obstacles:
+https://assetstore.unity.com/packages/3d/environments/fantasy/free-cartoon-halloween-pack-mobile-vr-45896
+
+Skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+Music:
+https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351
